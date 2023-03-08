@@ -11,6 +11,7 @@
 		A6EAA13A29B8BBF4004D586E /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A6EAA13929B8BBF4004D586E /* ContentView.swift */; };
 		A6EAA13C29B8BBF6004D586E /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = A6EAA13B29B8BBF6004D586E /* Assets.xcassets */; };
 		A6EAA13F29B8BBF6004D586E /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = A6EAA13E29B8BBF6004D586E /* Preview Assets.xcassets */; };
+		A6EAA14629B8BC10004D586E /* UykuSaati.mlmodel in Sources */ = {isa = PBXBuildFile; fileRef = A6EAA14529B8BC10004D586E /* UykuSaati.mlmodel */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +20,7 @@
 		A6EAA13929B8BBF4004D586E /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		A6EAA13B29B8BBF6004D586E /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		A6EAA13E29B8BBF6004D586E /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		A6EAA14529B8BC10004D586E /* UykuSaati.mlmodel */ = {isa = PBXFileReference; lastKnownFileType = file.mlmodel; path = UykuSaati.mlmodel; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -54,6 +56,7 @@
 				A6EAA13729B8BBF4004D586E /* UykuSaatiApp.swift */,
 				A6EAA13929B8BBF4004D586E /* ContentView.swift */,
 				A6EAA13B29B8BBF6004D586E /* Assets.xcassets */,
+				A6EAA14529B8BC10004D586E /* UykuSaati.mlmodel */,
 				A6EAA13D29B8BBF6004D586E /* Preview Content */,
 			);
 			path = UykuSaati;
@@ -137,6 +140,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				A6EAA14629B8BC10004D586E /* UykuSaati.mlmodel in Sources */,
 				A6EAA13A29B8BBF4004D586E /* ContentView.swift in Sources */,
 				A6EAA13829B8BBF4004D586E /* UykuSaatiApp.swift in Sources */,
 			);
